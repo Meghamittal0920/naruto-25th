@@ -1,0 +1,9 @@
+node_modules
+dist
+_raw
+_sage_720_backup
+
+# Source artwork and references; the site only uses the web copies in public/media
+/*.png
+/*.zip
+/htm.txt
